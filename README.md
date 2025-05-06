@@ -46,8 +46,6 @@ This project uses **KMeans Clustering** to detect the most dominant colors in an
 
 ---
 
----
-
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
