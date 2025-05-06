@@ -50,8 +50,8 @@ This project uses **KMeans Clustering** to detect the most dominant colors in an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/color-detection-kmeans.git
-   cd color-detection-kmeans
+   git clone https://github.com/SShreeC/Color-detection-
+   cd Color-detection-
 
 pip install -r requirements.txt
 
